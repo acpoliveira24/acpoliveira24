@@ -43,5 +43,5 @@
 
 &nbsp;
 
-### ⚡Git Status
+### ⚡Git Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acpoliveira24)](https://github.com/acpoliveira24/github-readme-stats)
