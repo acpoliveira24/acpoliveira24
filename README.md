@@ -8,7 +8,10 @@
 - ❤️ I love music, movies, videogames and books
 - 👉 Open for collaborations
 
+
+
 ### 🚀 Technologies and tools
+
 
 - I already know  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,12 +35,18 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+
+
 ### 📫 Contact me 🙂
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/anacarolinapdeoliveira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/EngAnaCarolina)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/acpoliveira24)
 
+
+
 ### ⚡Git Status
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acpoliveira24)](https://github.com/acpoliveira24/github-readme-stats)
